@@ -1,4 +1,4 @@
-# Text-Extraction-from-Images
+# Text-Recognition-from-Images
 To extract the text fom COCO dataset 
 
 # dependencies :
