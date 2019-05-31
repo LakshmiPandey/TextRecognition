@@ -12,7 +12,7 @@ To extract the text fom COCO dataset
    7.Numpy
    
    
-# Flow of the project
+# Basic steps
 Step 1: the detect the text in he image and bounding the text and getting the cropped images of the each chareacter
 Step 2: To train the the model on the digits and character of englih alphabets and numerals
 Step 3: To use the previous trained model for recognizing the character from the previously cropped images.
