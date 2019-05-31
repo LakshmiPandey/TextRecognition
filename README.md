@@ -19,7 +19,7 @@ Step 3: To use the previous trained model for recognizing the character from the
 
 
 # Note
-* We could have used the pretrained model for the purpose of object detection, but here we are doing each steps from th basic for the detectiong using opencv and its functions of edge deteion and extraction
-* Also for the purpose of Text recognition we can use the pretrained model (eg. ReNet) or tresseract or any other api, but, here we are first training the model on characters and numerals and then used the same model for he purpose of text extraction
+* We could have used the pretrained model for the purpose of text detection(MaskRCNN), but here we are doing each steps from the basic for the detecting using opencv and its functions of edge detection and extraction
+* Also for the purpose of text recognition we can use the pretrained model (eg. ReNet) or tresseract or any other api, but, here we are first training the model on characters and numerals and then used the same model for he purpose of text extraction
 
 
