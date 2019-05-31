@@ -3,13 +3,13 @@ To extract the text fom COCO dataset
 
 # dependencies :
 
-   1 OpenCv2
-   2 Python3
-   3 OS
-   4 GLOB
-   5 Matplot lib
-   6 Pandas
-   7 Numpy
+   1.OpenCv2
+   2.Python3
+   3.OS
+   4.GLOB
+   5.Matplot lib
+   6.Pandas
+   7.Numpy
    
    
 # Flow of the project
